@@ -1,12 +1,12 @@
 import React from 'react';
 import { Text, View } from 'react-native';
 
-const FirstScreen: React.FC = () => {
+const Order: React.FC = () => {
     return (
         <View>
-            <Text>React Native Expo</Text>
+            <Text>Order</Text>
         </View>
     );
 };
 
-export default FirstScreen;
+export default Order;
